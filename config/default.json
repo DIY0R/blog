@@ -1,0 +1,10 @@
+{
+    "port": 5000,
+    "jwtSecret": "********",
+    "db_name": "diy_blog",
+    "db_password": "************",
+    "db_user": "postgres",
+    "db_port": "5432",
+    "db_host": "localhost",
+    "my_sort": "**********"
+}
